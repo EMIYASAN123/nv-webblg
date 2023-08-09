@@ -1,0 +1,14 @@
+{
+  "name": "nv-webblg-server",
+  "version": "1.0.0",
+  "description": "nodejs vuejs webblg server (backend)",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chatchai Saetang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
